@@ -1,4 +1,4 @@
-# Realtime Data Streaming With TCP Socket, Apache Spark, OpenAI LLM, Kafka and Elasticsearch | End-to-End Data Engineering Project
+# End-to-End Data Engineering Project
 
 ## System Architecture
 ![System_architecture.png](assets%2FSystem_architecture.png)
